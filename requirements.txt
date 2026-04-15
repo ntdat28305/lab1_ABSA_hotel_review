@@ -1,0 +1,15 @@
+pandas
+numpy
+underthesea
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+pathlib
+joblib
+transformers
+torch
+streamlit
+plotly
+fastapi
+uvicorn
