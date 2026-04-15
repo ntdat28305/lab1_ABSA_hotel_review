@@ -6,7 +6,7 @@ import plotly.express as px
 st.set_page_config(page_title="Travel ABSA System", layout="wide")
 st.title("Hệ thống Phân tích Du lịch ")
 
-API_URL = "https://ntdat232-hotel-absa-api.hf.space"
+API_URL = "https://ntdat232-hotel-absa-api.hf.space/predict"
 
 with st.sidebar:
     model_choice = st.selectbox("Chọn Model thông qua API:", ["Logistic Regression", "PhoBERT Transformer"])
