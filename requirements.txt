@@ -13,3 +13,4 @@ streamlit
 plotly
 fastapi
 uvicorn
+openpyxl
